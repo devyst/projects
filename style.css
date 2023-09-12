@@ -42,8 +42,19 @@
 }
 
 .slide5 {
-    background-image: linear-gradient(-225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%);}
+    background: linear-gradient(225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%);
+}
 
+.slide6 {
+    background: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);
+}
+
+.slide7 {
+    background: linear-gradient(-225deg, #A445B2 0%, #D41872 52%, #FF0066 100%);
+}
+.slide8 {
+    background: linear-gradient(to bottom, #007adf 0%, #00ecbc 100%);
+}
 /* SLIDE 1 */
 .card {
     width: 350px;
@@ -356,7 +367,7 @@
         padding: 30px;
     }
     .box:hover img {
-        top: 72%;
+        top: 75%;
         left: 50%;
         height: 400px;
     }
