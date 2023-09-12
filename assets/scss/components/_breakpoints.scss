@@ -11,8 +11,8 @@
 @media screen and (min-width: 1024px){
     .gallery{
         &__card{
-            width: 220px;
-            height: 290px;
+            width: 260px;
+            height: 260px;
         }
         &__thumbnail{
             width: 65px;
@@ -22,6 +22,6 @@
 
     .gallery-cards,
     .gallery-thumbs{
-        width: 280px;
+        width: 260px;
     }
 }
