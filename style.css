@@ -371,6 +371,9 @@
         left: 50%;
         height: 400px;
     }
+    .last:hover img {
+        top: 70%;
+    }
 }
 @media screen and (max-width:800px) {
     .slide2 {
