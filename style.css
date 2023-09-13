@@ -22,43 +22,9 @@
     gap: 50px;
     color: #fff;
     scroll-snap-align: start;
+    background: #008f95;
 }
 
-.slide1 {
-    background: linear-gradient(4545deg, #4f4080, #9553ff);
-}
-
-.slide2 {
-    background: linear-gradient(4545deg, #4f4080, #53ff88);
-}
-
-.slide3 {
-    background: linear-gradient(4545deg, #9574ff, #ff5353);;
-}
-
-.slide4 {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-}
-
-.slide5 {
-    background: linear-gradient(225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%);
-}
-
-.slide6 {
-    background: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);
-}
-
-.slide7 {
-    background: linear-gradient(-225deg, #A445B2 0%, #D41872 52%, #FF0066 100%);
-}
-
-.slide8 {
-    background: linear-gradient(to bottom, #007adf 0%, #00ecbc 100%);
-}
-
-.slide9 {
-    background: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
-}
 /* SLIDE 1 */
 .card {
     width: 350px;
